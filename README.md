@@ -8,11 +8,6 @@
 
 [![DNB Pay App – Enterprise HR & Payroll](https://img.shields.io/badge/DNB%20Pay%20App–Enterprise%20HR%20%26%20Payroll-24c6dc?style=for-the-badge&logo=django&logoColor=white)](https://github.com/stealthinator45/DNB-pay-system)
 
-<p align="center">
-  <a href="https://github.com/stealthinator45/DNB-pay-system">
-    <img src="https://raw.githubusercontent.com/stealthinator45/DNB-pay-system/main/screenshots/dashboard.png" alt="DNB Pay App Dashboard" width="95%" />
-  </a>
-</p>
 
 **Automated attendance & payroll for Sector 9 Hospital, BSP**  
 _Django · MySQL · Role-Based Dashboards · CI/CD · 60% Less Manual Work_
