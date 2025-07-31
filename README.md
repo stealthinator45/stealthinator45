@@ -117,7 +117,7 @@ Final-year B.Tech IT student at KIIT University with expertise in scalable ML ap
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stealthinator45&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="110" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stealthinator45&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="140" />
 </p>
 
 ---
