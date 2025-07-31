@@ -1,114 +1,135 @@
-<!-- Hero Banner with Typing SVG -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7AE,100:FCE883&height=170&section=header&text=Piyush%20Kumar%20Tiwari&fontSize=40&fontAlignY=40&desc=AI%20%7C%20Full-Stack%20%7C%20API%20Automation%20%7C%20Keploy%20Fellow&descSize=18&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0087F6,100:43E97B&height=180&section=header&text=Piyush%20Kumar%20Tiwari&fontSize=38&fontAlign=50&fontColor=191970" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&color=00BDBD&center=true&vCenter=true&width=1000&lines=🚀+Full-Stack+%7C+Machine+Learning+%7C+API+Automation+Pro;👨‍💻+Django,+Node.js,+React,+Keploy+API+Fellow;🏆+Building+scalable+products+%7C+Open+to+Collab" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2200&pause=700&color=00B1F4&center=true&width=700&lines=Software+Engineer+%7C+ML%2FAI+Enthusiast+%7C+Keploy+API+Fellow;API+Testing+Evangelist+%7C+Full-Stack+Problem+Solver;Open+to+Challenging%2C+Impactful+Roles!" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚩 Signature Project
+<div align="center">
+  <img src="https://img.shields.io/badge/Keploy%20API%20Fellow-18,500%2B%20applicants-00C1B4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=" />
+  <img src="https://img.shields.io/badge/Developer-Django%20%7C%20Node.js%20%7C%20React-38BDF8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-292929?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
+</div>
+
+---
+
+## 🚀 Hero Project: DNB Pay App (Enterprise HR & Payroll)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stealthinator45/DNB-pay-system/main/screenshots/dashboard.png" alt="DNB Pay App" width="80%" />
+</p>
 
 <div align="center">
-  <a href="https://github.com/stealthinator45/DNB-pay-system">
-    <img src="https://img.shields.io/badge/DNB%20Pay%20App%20-%20Enterprise%20HR%20%26%20Payroll%20🚀-00C853?style=for-the-badge&logo=django&logoColor=white" />
+  <a href="https://github.com/stealthinator45/DNB-pay-system" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20DNB%20Pay%20App%20%E2%9A%A1-GitHub-blue?style=for-the-badge&logo=github" />
   </a>
 </div>
 
-<p align="center">
-  <a href="https://github.com/stealthinator45/DNB-pay-system">
-    <img src="https://raw.githubusercontent.com/stealthinator45/DNB-pay-system/main/screenshots/dashboard.png" alt="DNB Pay App Screenshot" width="82%" />
-  </a>
-</p>
+<details>
+<summary><b>What Makes DNB Pay App Special?</b></summary>
 
-<p align="center">
-  <b>Production-grade HR & Payroll system:</b>  
-  Automated attendance/payroll for Sector 9 Hospital, BSP.  
-  <br>Legacy HR, reimagined with Django, MySQL, and role-based security.
-</p>
+- 🌐 **End-to-End Digital Transformation:** Automated all employee attendance & payroll for a major hospital.
+- 🔒 **Secure, Modular, and Role-Based:** No legacy dependency, production-grade workflows and dashboards.
+- 📈 **Impact:** Saved 60% of HR processing time, improved compliance, and data accuracy.
+- 🚀 **Modern Stack:** Django, MySQL, Bootstrap, CI/CD, Dockerized for scale.
+- 🏆 **Collaboration:** Gathered, planned, and delivered with real HR & admin teams.
+</details>
 
-<ul>
-  <li>✨ Fully modular and secure, with HR, admin, and staff portals</li>
-  <li>⚡ Cut payroll processing time by 60%, improved accuracy and compliance</li>
-  <li>🌐 Responsive Bootstrap UI, CI/CD pipeline, and real production deployment</li>
-  <li>🤝 Delivered by collaborating directly with hospital HR/admin teams</li>
-</ul>
+---
+
+## 🌟 Selected High-Impact Projects
+
+| Project                                                                 | Tech & Impact                         | Links                                                               |
+|-------------------------------------------------------------------------|--------------------------------------|---------------------------------------------------------------------|
+| **Product Manager API**                                                 | Node.js, Express, MySQL, Keploy, CI  | [Repo](https://github.com/stealthinator45/product-manager-api)      |
+| **SMS Spam Classifier**                                                 | Python, NLP, Streamlit, 96% Acc      | [Repo](https://github.com/stealthinator45/SMS-spam-classifier)      |
+| **Titanic Survival Predictor**                                          | ML, sklearn, pandas, ensemble        | [Repo](https://github.com/stealthinator45/Titanic-Survival-Prediction) |
+| **Job Seeking App**                                                     | JS, web, design                      | [Repo](https://github.com/stealthinator45/Job-Seeking-App)          |
+| **Jumperr Game**                                                        | Browser, HTML5, CSS3, JS             | [Repo](https://github.com/stealthinator45/Jumperr-Game)             |
+
+---
+
+## 👨‍💼 About Me
+
+> **Piyush Kumar Tiwari**<br>
+> Final-year IT student at KIIT University<br>
+> API Automation and ML Enthusiast | Keploy API Fellow (top 0.05%)<br>
+> Keen to tackle complex data, platform, or engineering problems using modern tech.
+
+**Quick facts:**
+- 🔬 AI/ML, full-stack apps, and API platforms.
+- 📄 Automated testing evangelist (Keploy, Jest, Supertest).
+- 🏆 Starred open source & enterprise HR automation apps.
+
+**Contact:** [Email](mailto:tpiyush2626@gmail.com) • [LinkedIn](https://www.linkedin.com/in/piyush-kumar-tiwari-a6a800256) • [Leetcode](https://leetcode.com/u/tpiyush2626/)
+
+---
+
+## 🛠️ My Tech Toolbox
 
 <div align="center">
-  <a href="https://github.com/stealthinator45/DNB-pay-system" style="font-weight:bold;font-size:1.14em;color:#00B16A;">🔗 Explore DNB Pay App on GitHub</a>
+
+**Python**
+<img src="https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue"/>
+
+**JavaScript**
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+**SQL**
+<img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=flat-square"/>
+**C++**
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square"/>
+<br>
+
+**AI/ML:** TensorFlow, scikit-learn, Pandas, NumPy, OpenCV<br>
+**Web:** Django, Node.js, Express, React, Flask, Streamlit, Bootstrap, MySQL<br>
+**API Automation:** Keploy (CLI + extension), Jest, Supertest, Postman, OpenAPI, Swagger<br>
+**DevOps/Cloud:** Docker, GitHub Actions, AWS, WSL2, CI/CD, Heroku
+
 </div>
 
 ---
 
-## ⭐ Other Top Projects
-
-| Project | Tech | Links | Impact |
-|---|---|---|---|
-| **[Product Manager API](https://github.com/stealthinator45/product-manager-api)** | Node.js, Express, MySQL, Keploy | [Repo](https://github.com/stealthinator45/product-manager-api) | API platform, AI-driven test automation |
-| **[SMS Spam Classifier](https://github.com/stealthinator45/SMS-spam-classifier)** | Python, NLP, Streamlit | [Repo](https://github.com/stealthinator45/SMS-spam-classifier) | 96% live spam detection |
-| **[Titanic Survival Predictor](https://github.com/stealthinator45/Titanic-Survival-Prediction)** | ML, sklearn, pandas | [Repo](https://github.com/stealthinator45/Titanic-Survival-Prediction) | Ensemble classifier |
-| **[Job Seeking App](https://github.com/stealthinator45/Job-Seeking-App)** | JS, HTML5, CSS3 | [Repo](https://github.com/stealthinator45/Job-Seeking-App) | Modern UI & UX |
-| **[Jumperr Game](https://github.com/stealthinator45/Jumperr-Game)** | JavaScript, Canvas | [Repo](https://github.com/stealthinator45/Jumperr-Game) | Fun side-scroller game |
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Final-year B.Tech IT @ KIIT University
-- 🏆 **Keploy API Fellow** (Top 0.05%)
-- 💡 Passionate about AI, full-stack dev, and test automation
-- 🤝 Let’s connect: [LinkedIn](https://www.linkedin.com/in/piyush-kumar-tiwari-a6a800256) • [LeetCode](https://leetcode.com/u/tpiyush2626/) • [Gmail](mailto:tpiyush2626@gmail.com)
-
----
-
-## 💼 Professional Experience
-
-- **Keploy API Fellowship** – API automation, OpenAPI/Swagger docs, cloud CI/CD, top 1,000 among 18,500+ global
-- **Bhilai Steel Plant, SAIL** – Automated HR, attendance & payroll, cut workload by 60%
-- **Lernx, IMUN, BasketHunt** – Internships in web, marketing, outreach, and agile engineering
-- **Collaborative, results-driven, and always learning!**
-
----
-
-## 🛠️ My Toolbox
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MySQL-00618C?logo=mysql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Keploy-7839F3?logo=data:image/png;base64,iVBORw0KGgo%3D%3D&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
-</div>
-
----
-
-## 📊 GitHub Stats
+## 📊 My GitHub by the Numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stealthinator45&show_icons=true&theme=radical&hide_title=true" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=stealthinator45&theme=radical&hide_title=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=stealthinator45&show_icons=true&theme=radical&hide_title=true" alt="stats" />
+  <img src="https://streak-stats.demolab.com/?user=stealthinator45&theme=radical&hide_title=true" alt="streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stealthinator45&layout=compact&theme=radical&hide_border=true" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stealthinator45&layout=compact&theme=radical&hide_border=true" alt="top langs" />
 </p>
 
 ---
 
-## 📚 Education
+## 💼 Experience
 
-- **B.Tech (IT)**, KIIT University, 2022–2026
-- **Delhi Public School, Bhilai**, 2008–2021
+**Keploy API Fellow** (Remote) — May–Jul 2025  
+> Selected 1 in 18,500; delivered enterprise-caliber API automation, built full-stack test suites, pioneered OpenAPI-driven cloud CI/CD.
+
+**Web Development Intern**, Bhilai Steel Plant — May–Jun 2025  
+> Automated HR attendance/payroll, cut workload by 60%.
+
+**Marketing Intern**, Lernx — Jan–Apr 2024  
+> Boosted brand reach & analytics.
+
+**Campus Ambassador**, IMUN — Dec 2023–Jan 2024  
+> Surpassed event recruitment target by 30%.
+
+**IT & Web Dev Intern**, BasketHunt — Jul–Oct 2023  
+> Led dev team to two project launches in two weeks.
+
+---
+
+## 🎓 Education
+
+- **B.Tech (IT), KIIT University**
+- **Delhi Public School, Bhilai** (Science)
 
 ---
 
@@ -120,7 +141,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stealthinator45&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=stealthinator45&color=00BCD4&style=flat-square&label=Profile+Views"/>
   <br>
-  <b>⭐ Like my work? Star a repo, connect, or drop me a message! ⭐</b>
+  <b>⭐ If my journey or code helps you, feel free to star a repo or connect! ⭐</b>
 </p>
+
+---
+
+<!-- Footer shadow for style -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=F7DC6F&height=80&section=footer"/></p>
