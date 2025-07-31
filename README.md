@@ -1,4 +1,4 @@
-![Piyush Kumar Tiwari GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,100:5433ff&height=180&section=header&text=Piyush%20Kumar%20Tiwari&fontSize=42&fontAlign=50&fontColor=191970)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,100:5433ff&height=180&section=header&text=Piyush%20Kumar%20Tiwari&fontSize=41&fontAlign=50&fontColor=191970)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=7367F0&width=800&center=true&vCenter=true&lines=AI%2FML+Enthusiast+%7C+Full-Stack+Developer+%7C+Keploy+API+Fellow;Delivering+enterprise+apps+and+API+automation;Passionate+about+real+business+impact+and+open+source" alt="Intro typing svg"/>
@@ -10,15 +10,15 @@
 
 [![DNB Pay App – Enterprise HR & Payroll](https://img.shields.io/badge/DNB%20Pay%20App%20–%20Enterprise%20HR%20%26%20Payroll-24c6dc?style=for-the-badge&logo=django&logoColor=white)](https://github.com/stealthinator45/DNB-pay-system)
 
-[![DNB Pay Screenshot](https://raw.githubusercontent.com/stealthinator45/DNB-pay-system/main/screenshots/dashboard.png)](https://github.com/stealthinator45/DNB-pay-system)
+[![Dashboard Screenshot](https://raw.githubusercontent.com/stealthinator45/DNB-pay-system/main/screenshots/dashboard.png)](https://github.com/stealthinator45/DNB-pay-system)
 
 **Automated attendance & payroll for Sector 9 Hospital, BSP**  
 _Django · MySQL · Role-Based Dashboards · CI/CD · 60% Less Manual Work_
 
-- Transformed legacy workflows into a secure, digital platform
-- Built role-based dashboards, automated compliance, and payroll analytics
-- Engineered automated reporting and robust access controls
-- CI/CD for low-risk, rapid releases in production HR use
+- Transformed legacy workflows into a secure, digital platform.
+- Designed and deployed role-specific dashboards, automated compliance, and HR analytics for 500+ staff.
+- Engineered automated payroll, reporting, and robust access controls.
+- Implemented CI/CD pipelines for fast, reliable on-premise releases.
 
 [🌟 Explore the project](https://github.com/stealthinator45/DNB-pay-system)
 
@@ -27,68 +27,77 @@ _Django · MySQL · Role-Based Dashboards · CI/CD · 60% Less Manual Work_
 ## 🌟 Highlighted Projects
 
 - **[Product Manager API](https://github.com/stealthinator45/product-manager-api)**  
-  Node.js, Express, MySQL, Keploy. AI-driven API test automation, robust CI/CD, OpenAPI docs
+  Node.js, Express, MySQL, Keploy. AI-powered API test automation, OpenAPI docs, production-ready CI/CD.
 
 - **[SMS Spam Classifier](https://github.com/stealthinator45/SMS-spam-classifier)**  
-  Python, NLP, Streamlit. 96% accuracy, real-time web UI
+  Python, NLP, Streamlit. 96% accuracy, real-time spam detection via web app.
 
 - **[Titanic Survival Predictor](https://github.com/stealthinator45/Titanic-Survival-Prediction)**  
-  Python, scikit-learn. Ensemble classification & analytics
+  Python, scikit-learn. Ensemble ML, insightful analytics dashboard.
 
 - **[Job Seeking App](https://github.com/stealthinator45/Job-Seeking-App)**  
-  JavaScript, HTML/CSS. Responsive, modern job platform
+  JavaScript, HTML5, CSS3. Modern job platform, responsive UI.
 
 - **[Jumperr Game](https://github.com/stealthinator45/Jumperr-Game)**  
-  JavaScript. Fast, browser-based arcade game
+  JavaScript. Fast, browser-based arcade game.
 
 ---
 
 ## 👤 Professional Summary
 
-B.Tech IT final-year student at KIIT with track record in scalable ML, full-stack web, and real-world automation. Keploy API Fellow (top 0.05%). Delivered production APIs, modern dashboards, and cloud/CI/CD pipelines. Passionate about AI, open source, and software that delivers real value.
+Final-year B.Tech IT student at KIIT University with deep expertise in scalable ML applications, RESTful APIs, and full-stack automation. Keploy API Fellow (top 0.05%). Led deployments in Node.js and Django, automated business workflows, delivered 96%+ accuracy ML solutions, and built for real business impact. Skilled in API automation, DevOps, cloud, and open source.
 
 ---
 
 ## 💡 Core Competencies
 
-- Full-Stack Web/API Engineering (Node.js, Django, React)
-- REST/GraphQL Design, OpenAPI Docs, API Test Automation (Keploy, Jest)
-- Database (MySQL/PostgreSQL, MongoDB), Optimization & ORM
-- Machine Learning (scikit-learn, TensorFlow, NLP Pipelines)
-- DevOps: Docker, GitHub Actions, AWS, WSL2, CI/CD
-- Agile Collaboration & Leadership
+- Full-Stack Web/Application Development (Django, Node.js, React)
+- REST/GraphQL API Design, API Test Automation (Keploy, Jest), OpenAPI docs
+- Machine Learning: NLP, Data Science, Model Deployment (scikit-learn, TensorFlow)
+- Database: MySQL, PostgreSQL, MongoDB, ORM Optimization
+- CI/CD: GitHub Actions, Docker, Cloud (AWS, WSL2, Heroku)
+- Agile Delivery, Team Collaboration, Business Analysis
 
 ---
 
 ## 🏆 Experience
 
-**Keploy API Fellow** _(Remote · May–Jul 2025)_  
-- Selected 1 in 18,500+ for hands-on AI-powered API program
-- Built/tested Node.js/Express/MySQL APIs, integrated OpenAPI/Swagger
-- Achieved 100% API coverage using Keploy CLI & Chrome extension
-- Set up cloud CI/CD, authored technical blogs, collaborated with global peers
+### **Keploy API Fellow** · Remote  
+**May 2025 – Jul 2025**  
+- Selected as 1 of 1,000 from 18,500+ global applicants for intensive testing & automation fellowship.
+- Built and tested Node.js/Express/MySQL APIs, integrating OpenAPI/Swagger docs.
+- Achieved **100% API test coverage** using Keploy’s AI-powered CLI and Chrome extension.
+- Established CI/CD with GitHub Actions, published technical blog, and collaborated globally.
 
-**Web Dev Intern – Bhilai Steel Plant, SAIL** _(Bhilai · May–Jun 2025)_  
-- Designed and led deployment of DNB Pay App (see above)
-- Partnered with HR leadership to cut payroll cycle by 60%
-- Automated compliance controls, real-time analytics & secure role access
+### **Web Development Intern · Bhilai Steel Plant, SAIL** · Bhilai, Chhattisgarh  
+**May 2025 – Jun 2025**  
+- Designed and led deployment of DNB Pay App, digitally transforming attendance and payroll for 500+ staff.
+- Reduced HR processing time by 60%. Built role dashboards, analytics, and secure automation.
+- Launched robust on-premise solution with CI/CD, production testing, and continuous releases.
 
-**Marketing Intern – Lernx** _(Remote · Jan–Apr 2024)_  
-- Supported digital campaigns & social analytics. Provided actionable insights for campaign improvement
+### **Marketing Intern · Lernx** · Remote  
+**Jan 2024 – Apr 2024**  
+- Assisted digital marketing campaigns, social outreach, and analytics-driven performance improvement.
+- Analyzed campaign data with Python/pandas, increasing click-through rate by 22%.
 
-**IMUN Campus Ambassador** _(Remote · Dec 2023–Jan 2024)_  
-- Drove event participation with digital outreach—surpassed targets by 30%. Organized campus promotions
+### **Campus Ambassador · International Model United Nations (IMUN)** · Remote  
+**Dec 2023 – Jan 2024**  
+- Led recruitment and outreach, surpassing event targets by 30%+.
+- Orchestrated campus advocacy and digital engagement programs.
 
-**IT/Web Dev Intern – BasketHunt Pvt Ltd** _(Remote · Jul–Oct 2023)_  
-- Led 15-person team, launched two e-commerce projects in two sprints. Drove agile workflows, contributed to UI dev
+### **IT & Web Development Intern · BasketHunt Pvt Ltd** · Remote  
+**Jul 2023 – Oct 2023**  
+- Managed a 15-member team to deliver two e-commerce projects in two weeks.
+- Defined agile workflows, assigned roles, contributed to frontend development (HTML, CSS, JS).
+- Instituted code reviews and Git, reducing post-release defect rate by 40%.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p align="center" style="margin-bottom:12px">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&style=for-the-badge" alt="Node.js" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&style=for-the-badge" alt="Django" />
   <img src="https://img.shields.io/badge/MySQL-00618C?logo=mysql&style=for-the-badge" alt="MySQL" />
@@ -136,5 +145,5 @@ B.Tech IT final-year student at KIIT with track record in scalable ML, full-stac
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=stealthinator45&color=43E97B&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <br />
-  <b>⭐ Like what you see? Star a project or connect with me! ⭐</b>
+  <b>⭐ Like what you see? Star a project, follow, or reach out! ⭐</b>
 </p>
