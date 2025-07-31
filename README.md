@@ -8,6 +8,11 @@
 
 [![DNB Pay App – Enterprise HR & Payroll](https://img.shields.io/badge/DNB%20Pay%20App–Enterprise%20HR%20%26%20Payroll-24c6dc?style=for-the-badge&logo=django&logoColor=white)](https://github.com/stealthinator45/DNB-pay-system)
 
+<p align="center">
+  <a href="https://github.com/stealthinator45/DNB-pay-system">
+    <img src="https://raw.githubusercontent.com/stealthinator45/DNB-pay-system/main/screenshots/dashboard.png" alt="DNB Pay App Dashboard" width="95%" />
+  </a>
+</p>
 
 **Automated attendance & payroll for Sector 9 Hospital, BSP**  
 _Django · MySQL · Role-Based Dashboards · CI/CD · 60% Less Manual Work_
@@ -48,11 +53,11 @@ Final-year B.Tech IT student at KIIT University with expertise in scalable ML ap
 
 ## 💡 Core Competencies
 
-- Full-Stack Engineering (Django, Node.js, React)
-- API Automation (REST, GraphQL, OpenAPI, Keploy)
-- Machine Learning (scikit-learn, TensorFlow, NLP pipelines)
-- Databases: MySQL, PostgreSQL, MongoDB, ORM
-- CI/CD: GitHub Actions, Docker, AWS, WSL2
+- Full-Stack Engineering (Django, Node.js, React)  
+- API Automation (REST, GraphQL, OpenAPI, Keploy)  
+- Machine Learning (scikit-learn, TensorFlow, NLP pipelines)  
+- Databases: MySQL, PostgreSQL, MongoDB, ORM  
+- CI/CD: GitHub Actions, Docker, AWS, WSL2  
 - Agile, Team Collaboration
 
 ---
@@ -86,7 +91,7 @@ Final-year B.Tech IT student at KIIT University with expertise in scalable ML ap
 
 ## 🛠️ Tech Stack
 
-<p align="center" style="margin-top: 10px; margin-bottom: 10px;">
+<p align="center" style="margin: 10px 0;">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&style=for-the-badge" alt="Node.js" />
