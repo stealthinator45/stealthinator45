@@ -8,12 +8,6 @@
 
 [![DNB Pay App – Enterprise HR & Payroll](https://img.shields.io/badge/DNB%20Pay%20App–Enterprise%20HR%20%26%20Payroll-24c6dc?style=for-the-badge&logo=django&logoColor=white)](https://github.com/stealthinator45/DNB-pay-system)
 
-<p align="center">
-  <a href="https://github.com/stealthinator45/DNB-pay-system">
-    <img src="https://raw.githubusercontent.com/stealthinator45/DNB-pay-system/main/screenshots/dashboard.png" alt="DNB Pay App Dashboard" width="95%" />
-  </a>
-</p>
-
 **Automated attendance & payroll for Sector 9 Hospital, BSP**  
 _Django · MySQL · Role-Based Dashboards · CI/CD · 60% Less Manual Work_
 
@@ -53,11 +47,11 @@ Final-year B.Tech IT student at KIIT University with expertise in scalable ML ap
 
 ## 💡 Core Competencies
 
-- Full-Stack Engineering (Django, Node.js, React)  
-- API Automation (REST, GraphQL, OpenAPI, Keploy)  
-- Machine Learning (scikit-learn, TensorFlow, NLP pipelines)  
-- Databases: MySQL, PostgreSQL, MongoDB, ORM  
-- CI/CD: GitHub Actions, Docker, AWS, WSL2  
+- Full-Stack Engineering (Django, Node.js, React)
+- API Automation (REST, GraphQL, OpenAPI, Keploy)
+- Machine Learning (scikit-learn, TensorFlow, NLP pipelines)
+- Databases: MySQL, PostgreSQL, MongoDB, ORM
+- CI/CD: GitHub Actions, Docker, AWS, WSL2
 - Agile, Team Collaboration
 
 ---
@@ -91,20 +85,20 @@ Final-year B.Tech IT student at KIIT University with expertise in scalable ML ap
 
 ## 🛠️ Tech Stack
 
-<p align="center" style="margin: 10px 0;">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&style=for-the-badge" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&style=for-the-badge" alt="Django" />
-  <img src="https://img.shields.io/badge/MySQL-00618C?logo=mysql&style=for-the-badge" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Keploy-7839F3?style=for-the-badge" alt="Keploy" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&style=for-the-badge" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&style=for-the-badge" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&style=for-the-badge" alt="Swagger" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&style=for-the-badge" alt="AWS" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&style=for-the-badge" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge" alt="Docker" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-00618C?logo=mysql&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Keploy-7839F3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
 </p>
 
 ---
@@ -112,12 +106,12 @@ Final-year B.Tech IT student at KIIT University with expertise in scalable ML ap
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stealthinator45&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" height="140" />
-  <img src="https://streak-stats.demolab.com/?user=stealthinator45&theme=radical&hide_title=true" alt="GitHub Streak" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stealthinator45&show_icons=true&theme=radical&hide_title=true" height="140" />
+  <img src="https://streak-stats.demolab.com/?user=stealthinator45&theme=radical&hide_title=true" height="140" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stealthinator45&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stealthinator45&layout=compact&theme=radical&hide_border=true" height="160" />
 </p>
 
 ---
@@ -131,15 +125,15 @@ Final-year B.Tech IT student at KIIT University with expertise in scalable ML ap
 
 ## 📫 Let's Connect!
 
-<p align="center" style="margin-bottom: 20px;">
-  <a href="mailto:tpiyush2626@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/piyush-kumar-tiwari-a6a800256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/tpiyush2626/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://github.com/stealthinator45"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<p align="center">
+  <a href="mailto:tpiyush2626@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/piyush-kumar-tiwari-a6a800256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/tpiyush2626/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://github.com/stealthinator45"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stealthinator45&color=43E97B&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=stealthinator45&color=43E97B&style=flat-square&label=Profile+Views" />
   <br />
   <b>⭐ Like what you see? Star a project, follow, or reach out! ⭐</b>
 </p>
