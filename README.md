@@ -8,15 +8,19 @@
 
 [![DNB Pay App – Enterprise HR & Payroll](https://img.shields.io/badge/DNB%20Pay%20App–Enterprise%20HR%20%26%20Payroll-24c6dc?style=for-the-badge&logo=django&logoColor=white)](https://github.com/stealthinator45/DNB-pay-system)
 
-[![Dashboard Screenshot](https://raw.githubusercontent.com/stealthinator45/DNB-pay-system/main/screenshots/dashboard.png)](https://github.com/stealthinator45/DNB-pay-system)
+<p align="center">
+  <a href="https://github.com/stealthinator45/DNB-pay-system">
+    <img src="https://raw.githubusercontent.com/stealthinator45/DNB-pay-system/main/screenshots/dashboard.png" alt="DNB Pay App Dashboard" width="95%" />
+  </a>
+</p>
 
 **Automated attendance & payroll for Sector 9 Hospital, BSP**  
-_Django · MySQL · Role-Based Dashboards · CI/CD · 60% Less Manual Work_
+_Django · MySQL · Role-Based Dashboards · CI/CD Pipeline · 60% Manual Work Reduction_
 
-- Transformed manual HR workflows into a secure digital platform.
-- Built role-based dashboards, compliance automation, and payroll analytics for 500+ staff.
-- Achieved 60% HR time savings and robust access control.
-- Implemented CI/CD for reliable, rapid production releases.
+- Transformed manual HR workflows into a secure, full-featured digital platform.
+- Designed and deployed role-based dashboards, compliance automation, and payroll analytics for 500+ staff.
+- Achieved 60% reduction in HR processing time with robust access control.
+- Implemented CI/CD for fast, reliable production releases supporting real-world use.
 
 [🌟 Explore the project](https://github.com/stealthinator45/DNB-pay-system)
 
@@ -25,36 +29,36 @@ _Django · MySQL · Role-Based Dashboards · CI/CD · 60% Less Manual Work_
 ## 🌟 Highlighted Projects
 
 - **[Product Manager API](https://github.com/stealthinator45/product-manager-api)**  
-  Node.js, Express, MySQL, Keploy — Automated API testing with Keploy, OpenAPI documentation, CI/CD.
+  Node.js, Express, MySQL, Keploy. Automated API testing, OpenAPI documentation, CI/CD workflow.
 
 - **[SMS Spam Classifier](https://github.com/stealthinator45/SMS-spam-classifier)**  
-  Python, NLP, Streamlit — 96% accuracy web app for spam detection.
+  Python, NLP, Streamlit. 96% accuracy; real-time spam detection via web app.
 
 - **[Titanic Survival Predictor](https://github.com/stealthinator45/Titanic-Survival-Prediction)**  
-  Python, scikit-learn — Ensemble ML classifier, analytics.
+  Python, scikit-learn. Ensemble ML model and analytics dashboard.
 
 - **[Job Seeking App](https://github.com/stealthinator45/Job-Seeking-App)**  
-  JavaScript, HTML5, CSS3 — Responsive job board.
+  JavaScript, HTML5, CSS3. Responsive, modern UI/UX platform.
 
 - **[Jumperr Game](https://github.com/stealthinator45/Jumperr-Game)**  
-  JavaScript — Fast browser-based game.
+  JavaScript, Canvas. Fast, browser-based arcade game.
 
 ---
 
 ## 👤 Professional Summary
 
-Final-year B.Tech IT student at KIIT University with expertise in scalable ML applications, RESTful APIs, cloud, and automation. Keploy API Fellow (top 0.05%). Led deployments in Django/Node.js, delivered impactful automation and analytics, regularly contributed to open source.
+Final-year B.Tech IT student at KIIT University with extensive experience in scalable machine learning applications, REST API design, full-stack development, and automation. Recognized Keploy API Fellow (top 0.05%) specializing in AI-driven API testing. Adept at cloud deployment, CI/CD pipelines, and delivering measurable business impact through software and data science.
 
 ---
 
 ## 💡 Core Competencies
 
-- Full-Stack Engineering (Django, Node.js, React)
-- API Automation (REST, GraphQL, OpenAPI, Keploy)
-- Machine Learning (scikit-learn, TensorFlow, NLP pipelines)
-- Databases: MySQL, PostgreSQL, MongoDB, ORM
-- CI/CD: GitHub Actions, Docker, AWS, WSL2
-- Agile, Team Collaboration
+- Full-Stack Web & API Development (Django, Node.js, React)
+- REST/GraphQL API Design and Automation (Keploy, Jest, OpenAPI)
+- Machine Learning & Data Science (scikit-learn, TensorFlow, NLP Pipelines)
+- Database Systems (MySQL, PostgreSQL, MongoDB)
+- Continuous Integration/Delivery (GitHub Actions, Docker, AWS, WSL2)
+- Agile/Collaborative Development and Technical Writing
 
 ---
 
@@ -62,26 +66,31 @@ Final-year B.Tech IT student at KIIT University with expertise in scalable ML ap
 
 ### **Keploy API Fellow** · Remote  
 **May 2025 – Jul 2025**  
-- Selected 1 in 1,000 from 18,500+ for global API testing fellowship.  
-- Developed Node.js/Express/MySQL APIs, integrated OpenAPI docs, achieved 100% API test coverage with Keploy.  
-- Launched full CI/CD pipeline via GitHub Actions; authored technical blogs; collaborated with global fellows.
+- Selected 1 in 1,000 among 18,500+ applicants globally for API automation fellowship.  
+- Developed and tested Node.js/Express/MySQL APIs integrating OpenAPI/Swagger documentation.  
+- Achieved 100% API test coverage using Keploy’s AI-powered CLI and Chrome extension.  
+- Set up cloud CI/CD workflows with GitHub Actions; authored detailed technical blog posts.
 
-### **Web Development Intern – Bhilai Steel Plant, SAIL** · Bhilai, Chhattisgarh  
+### **Web Development Intern**, Bhilai Steel Plant, SAIL · Bhilai  
 **May 2025 – Jun 2025**  
-- Built and shipped DNB Pay App, digitalizing all HR, payroll, and compliance processes for 500+ staff.  
-- Reduced HR processing time by 60%, established secure role-based interfaces.
+- Led development and deployment of flagship DNB Pay App, transforming HR and payroll operations.  
+- Partnered with HR admins to reduce manual payroll processing time by 60%.  
+- Built secure, role-based dashboards and automated reporting tools.
 
-### **Marketing Intern – Lernx** · Remote  
+### **Marketing Intern**, Lernx · Remote  
 **Jan 2024 – Apr 2024**  
-- Elevated digital campaigns; delivered analytics insights with Python/pandas (22% CTR increase).
+- Supported digital marketing campaigns, social media outreach, and data analytics.  
+- Implemented reporting tools that increased campaign click-through rates by 22%.
 
-### **Campus Ambassador – International Model United Nations (IMUN)** · Remote  
+### **Campus Ambassador**, International Model United Nations (IMUN) · Remote  
 **Dec 2023 – Jan 2024**  
-- Surpassed delegate targets by 30%, promoted MUN events on campus and digital platforms.
+- Drove campus and digital outreach efforts to increase event participation by 30%.  
+- Led student engagement and onboarding strategies.
 
-### **IT & Web Development Intern – BasketHunt Pvt Ltd** · Remote  
+### **IT & Web Development Intern**, BasketHunt Pvt Ltd · Remote  
 **Jul 2023 – Oct 2023**  
-- Led 15-person agile team; delivered two web projects in two weeks; improved code quality and release cadence.
+- Managed a 15-person team; delivered two client projects within two-week sprints.  
+- Established Git workflows, code review processes and contributed extensively to frontend development.
 
 ---
 
@@ -137,5 +146,5 @@ Final-year B.Tech IT student at KIIT University with expertise in scalable ML ap
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=stealthinator45&color=43E97B&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <br />
-  <b>⭐ If you find my work helpful, star a repo or connect! ⭐</b>
+  <b>⭐ Like what you see? Star a project, follow, or reach out! ⭐</b>
 </p>
