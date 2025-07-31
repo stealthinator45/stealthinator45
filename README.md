@@ -15,12 +15,12 @@
 </p>
 
 **Automated attendance & payroll for Sector 9 Hospital, BSP**  
-_Django · MySQL · Role-Based Dashboards · CI/CD Pipeline · 60% Manual Work Reduction_
+_Django · MySQL · Role-Based Dashboards · CI/CD · 60% Less Manual Work_
 
-- Transformed manual HR workflows into a secure, full-featured digital platform.
-- Designed and deployed role-based dashboards, compliance automation, and payroll analytics for 500+ staff.
-- Achieved 60% reduction in HR processing time with robust access control.
-- Implemented CI/CD for fast, reliable production releases supporting real-world use.
+- Transformed manual HR workflows into a secure digital platform.
+- Built role-based dashboards, compliance automation, and payroll analytics for 500+ staff.
+- Achieved 60% HR time savings and robust access control.
+- Implemented CI/CD for reliable, rapid production releases.
 
 [🌟 Explore the project](https://github.com/stealthinator45/DNB-pay-system)
 
@@ -29,36 +29,36 @@ _Django · MySQL · Role-Based Dashboards · CI/CD Pipeline · 60% Manual Work R
 ## 🌟 Highlighted Projects
 
 - **[Product Manager API](https://github.com/stealthinator45/product-manager-api)**  
-  Node.js, Express, MySQL, Keploy. Automated API testing, OpenAPI documentation, CI/CD workflow.
+  Node.js, Express, MySQL, Keploy — Automated API testing with Keploy, OpenAPI docs, CI/CD.
 
 - **[SMS Spam Classifier](https://github.com/stealthinator45/SMS-spam-classifier)**  
-  Python, NLP, Streamlit. 96% accuracy; real-time spam detection via web app.
+  Python, NLP, Streamlit — 96% accuracy web app for spam detection.
 
 - **[Titanic Survival Predictor](https://github.com/stealthinator45/Titanic-Survival-Prediction)**  
-  Python, scikit-learn. Ensemble ML model and analytics dashboard.
+  Python, scikit-learn — Ensemble ML classifier, analytics.
 
 - **[Job Seeking App](https://github.com/stealthinator45/Job-Seeking-App)**  
-  JavaScript, HTML5, CSS3. Responsive, modern UI/UX platform.
+  JavaScript, HTML5, CSS3 — Responsive job board.
 
 - **[Jumperr Game](https://github.com/stealthinator45/Jumperr-Game)**  
-  JavaScript, Canvas. Fast, browser-based arcade game.
+  JavaScript — Fast browser-based game.
 
 ---
 
 ## 👤 Professional Summary
 
-Final-year B.Tech IT student at KIIT University with extensive experience in scalable machine learning applications, REST API design, full-stack development, and automation. Recognized Keploy API Fellow (top 0.05%) specializing in AI-driven API testing. Adept at cloud deployment, CI/CD pipelines, and delivering measurable business impact through software and data science.
+Final-year B.Tech IT student at KIIT University with expertise in scalable ML applications, RESTful APIs, cloud, and automation. Keploy API Fellow (top 0.05%). Led deployments in Django/Node.js, delivered impactful automation and analytics, regularly contributed to open source.
 
 ---
 
 ## 💡 Core Competencies
 
-- Full-Stack Web & API Development (Django, Node.js, React)
-- REST/GraphQL API Design and Automation (Keploy, Jest, OpenAPI)
-- Machine Learning & Data Science (scikit-learn, TensorFlow, NLP Pipelines)
-- Database Systems (MySQL, PostgreSQL, MongoDB)
-- Continuous Integration/Delivery (GitHub Actions, Docker, AWS, WSL2)
-- Agile/Collaborative Development and Technical Writing
+- Full-Stack Engineering (Django, Node.js, React)
+- API Automation (REST, GraphQL, OpenAPI, Keploy)
+- Machine Learning (scikit-learn, TensorFlow, NLP pipelines)
+- Databases: MySQL, PostgreSQL, MongoDB, ORM
+- CI/CD: GitHub Actions, Docker, AWS, WSL2
+- Agile, Team Collaboration
 
 ---
 
@@ -66,31 +66,26 @@ Final-year B.Tech IT student at KIIT University with extensive experience in sca
 
 ### **Keploy API Fellow** · Remote  
 **May 2025 – Jul 2025**  
-- Selected 1 in 1,000 among 18,500+ applicants globally for API automation fellowship.  
-- Developed and tested Node.js/Express/MySQL APIs integrating OpenAPI/Swagger documentation.  
-- Achieved 100% API test coverage using Keploy’s AI-powered CLI and Chrome extension.  
-- Set up cloud CI/CD workflows with GitHub Actions; authored detailed technical blog posts.
+- Selected 1 in 1,000 from 18,500+ for global API testing fellowship.  
+- Developed Node.js/Express/MySQL APIs, integrated OpenAPI docs, achieved 100% API test coverage with Keploy.  
+- Launched full CI/CD pipeline via GitHub Actions; authored technical blogs; collaborated with global fellows.
 
-### **Web Development Intern**, Bhilai Steel Plant, SAIL · Bhilai  
+### **Web Development Intern – Bhilai Steel Plant, SAIL** · Bhilai, Chhattisgarh  
 **May 2025 – Jun 2025**  
-- Led development and deployment of flagship DNB Pay App, transforming HR and payroll operations.  
-- Partnered with HR admins to reduce manual payroll processing time by 60%.  
-- Built secure, role-based dashboards and automated reporting tools.
+- Built and shipped DNB Pay App, digitalizing all HR, payroll, and compliance processes for 500+ staff.  
+- Reduced HR processing time by 60%, established secure role-based interfaces.
 
-### **Marketing Intern**, Lernx · Remote  
+### **Marketing Intern – Lernx** · Remote  
 **Jan 2024 – Apr 2024**  
-- Supported digital marketing campaigns, social media outreach, and data analytics.  
-- Implemented reporting tools that increased campaign click-through rates by 22%.
+- Elevated digital campaigns; delivered analytics insights with Python/pandas (22% CTR increase).
 
-### **Campus Ambassador**, International Model United Nations (IMUN) · Remote  
+### **Campus Ambassador – International Model United Nations (IMUN)** · Remote  
 **Dec 2023 – Jan 2024**  
-- Drove campus and digital outreach efforts to increase event participation by 30%.  
-- Led student engagement and onboarding strategies.
+- Surpassed delegate targets by 30%, promoted MUN events on campus and digital platforms.
 
-### **IT & Web Development Intern**, BasketHunt Pvt Ltd · Remote  
+### **IT & Web Development Intern – BasketHunt Pvt Ltd** · Remote  
 **Jul 2023 – Oct 2023**  
-- Managed a 15-person team; delivered two client projects within two-week sprints.  
-- Established Git workflows, code review processes and contributed extensively to frontend development.
+- Led 15-person agile team; delivered two web projects in two weeks; improved code quality and release cadence.
 
 ---
 
